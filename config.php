@@ -9,7 +9,7 @@
 //define('DB_PASSWORD','Qwe2-rty*66KddQwer-19mdjyf');
 //define('DB_HOST','52.185.201.144');
 
-define('DB_NAME','phpdatabase');
-define('DB_USER','root');
-define('DB_PASSWORD','');
-define('DB_HOST','localhost');
+define('DB_NAME','mykola');
+define('DB_USER','poplavok');
+define('DB_PASSWORD','Qw*49w8834sstt-098dsc');
+define('DB_HOST','mysql');
